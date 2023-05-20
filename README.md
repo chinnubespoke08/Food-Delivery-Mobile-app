@@ -10,12 +10,6 @@
 - When the user clicks on the Logout button, the app redirects them back to the login page and clears all data saved from the Profile Screen.
 - To populate, query, and filter menu items, the app uses a SQLite Database.
 
-### How to use the project
-
-##### npm install && npm start
-##### Then, a QR Code wil appear on your terminal.
-##### On IOS Scan QR code through Camera app.
-##### On Android : Scan QR code through Expo Go app.
 
 
 
