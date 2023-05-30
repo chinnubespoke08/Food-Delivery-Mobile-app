@@ -1,6 +1,6 @@
 # Food Delivery App - React Native
 
-- We developing a React Native Expo Food app.
+- A React Native Expo Food app.
 - The app allows users to sign up and requires them to complete a registration process.
 - Upon successful completion of the registration process, users are directed to a home screen.
 - The home screen serves as the landing page and features a header, a banner with a search bar, and a list of menu items that users can filter by category.
