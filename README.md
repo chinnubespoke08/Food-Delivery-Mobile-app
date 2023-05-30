@@ -1,4 +1,4 @@
-# Food Ordering App - React Native
+# Food Delivery App - React Native
 
 - We developing a React Native Expo Food app.
 - The app allows users to sign up and requires them to complete a registration process.
